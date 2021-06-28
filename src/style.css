@@ -9,6 +9,10 @@
     height: 500px;
 }
 
-.titulo {
+.fonte-pacifico {
     font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
 }
