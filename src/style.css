@@ -1,0 +1,14 @@
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 75%;
+    height: 500px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 500px;
+}
+
+.titulo {
+    font-family: 'Pacifico', cursive;
+}
