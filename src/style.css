@@ -14,5 +14,24 @@
 }
 
 .cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
+
+.largura-card {
+    max-width: 18rem;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.imagens-card {
+    object-fit: cover;
+    height: 200px;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
