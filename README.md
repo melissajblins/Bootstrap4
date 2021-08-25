@@ -1,5 +1,7 @@
 # Bootstrap4
-Criando uma landing page responsiva
+Criando uma landing page responsiva.
+
+![Captura de ecrã de 2021-08-25 20-22-02](https://user-images.githubusercontent.com/78432629/130876960-b9ef4d39-94fa-406f-ad2f-da83c89ae172.png)
 
 ## Sobre o projeto
 A fruto e fruta é uma empresa preocupada com a alimentação saúdavel, ecológica e econômica de seus clientes. Esse zelo espelha-se em sua página online responsiva e de qualidade para os leitores de tela. 
